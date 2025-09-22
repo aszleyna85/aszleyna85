@@ -10,7 +10,7 @@ Here you’ll find selected projects that demonstrate my technical skills and pr
 
 ### 1. ⚙️ Smallworld Production Tools
 [🔗 View Repo](https://github.com/aszleyna85/SmallWorld_prod_tools)  
-- Tools: Smallworld PNI, Magik scripting, Python  
+- Tools: Smallworld PNI Magik scripting 
 - Built automation and QA/QC tools for telecom network migration  
 - Improved accuracy and reduced manual effort in GIS datasets  
 
@@ -41,7 +41,7 @@ Here you’ll find selected projects that demonstrate my technical skills and pr
 ---
 
 ## 🧰 Skills Highlight
-- **Data Analysis:** Power BI, Excel, SQL, Python (Pandas)  
+- **Data Analysis:** Power BI, Excel, SQL 
 - **GIS Tools:** QGIS, AutoCAD Map 3D, Smallworld PNI  
 - **Design & Engineering:** AutoCAD Electrical, Bentley Microstation, Cadence Virtuoso  
 - **Networking:** Cisco Packet Tracer, LAN/WAN topologies, IoT simulation  
