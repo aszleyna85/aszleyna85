@@ -35,8 +35,8 @@ Here you’ll find selected projects that demonstrate my technical skills and pr
 ### 4. 🏠 Smart Home IoT Network (Packet Tracer)
 [🔗 View Repo](https://github.com/aszleyna85/Smart_Home_IoT)  
 - Tools: Cisco Packet Tracer  
-- Designed a smart home IoT environment (cameras, PS4, smart TV, appliances)  
-- Currently an **ongoing learning project** (security, automation to be added)  
+- Add-on additional stuff for a smart home IoT environment (cameras, PS4, smart TV, appliances)  
+- Currently an **ongoing learning project**   
 
 ---
 
