@@ -36,7 +36,16 @@ Here you’ll find selected projects that demonstrate my technical skills and pr
 [🔗 View Repo](https://github.com/aszleyna85/Smart_Home_IoT)  
 - Tools: Cisco Packet Tracer  
 - Add-on additional stuff for a smart home IoT environment (cameras, PS4, smart TV, appliances)  
-- Currently an **ongoing learning project**   
+- Only for Smart Home IoT network simulation 
+
+---
+
+### 5. 🏢 Smart Office Network Project – Independent Implementation  (Packet Tracer)
+[🔗 View Repo](https://github.com/aszleyna85/Smart-Office-Network-Project) 
+- Tools: Cisco Packet Tracer  
+- The **Smart Office Network Project** is a self-directed demonstration of practical networking and IoT concepts using Cisco Packet Tracer.  
+It reflects my ability to plan, implement, test, and document small-scale enterprise networks while ensuring scalability, security, and accessibility
+- This include professional network documentation and validation
 
 ---
 
